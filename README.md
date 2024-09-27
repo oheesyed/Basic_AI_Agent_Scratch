@@ -16,7 +16,7 @@ https://github.com/john-adeojo/use-tools
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/oheesyed/basic-ai-agent-scratch.git
    cd your-repo-name
    ```
 
